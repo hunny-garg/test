@@ -1,0 +1,10 @@
+node_modules
+logs
+*.log
+*.pid
+*.seed
+Dockerfile
+.dockerignore
+.git
+.svn
+.hg
