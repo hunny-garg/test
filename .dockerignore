@@ -5,6 +5,7 @@ logs
 *.seed
 Dockerfile
 .dockerignore
+.gitignore
 .git
 .svn
 .hg
