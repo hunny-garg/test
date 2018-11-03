@@ -6,4 +6,4 @@ logs
 .git
 .svn
 .hg
-script.sh
+*.sh
